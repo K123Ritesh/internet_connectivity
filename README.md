@@ -12,5 +12,6 @@ A Flutter plugin to monitor internet connectivity and airplane mode status. This
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
-internet_connectivity : ^0.0.1
+dependencies:
+  internet_connectivity : ^0.0.1
 
